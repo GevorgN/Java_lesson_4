@@ -1,4 +1,4 @@
-public class bubbleSort {
+public class BubbleSort {
     public static void main(String[] args) {
         int[] array = {10, 15, 54, 1, 23, 87, 46, 8, 4, 6, 78, 100};
         boolean flag = true;
